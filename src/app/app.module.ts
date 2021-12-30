@@ -16,7 +16,6 @@ import { HeroDetailComponent } from './hero-detail/hero-detail.component';
     FormsModule
   ],
   providers: [
-    // no need to place any providers due to the `providedIn` flag...
   ],
   bootstrap: [ AppComponent ]
 })
